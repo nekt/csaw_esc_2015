@@ -17,7 +17,7 @@ candidate.
 
 The challenge will be is divided into **two phases**.
 
--   In the **first phase** you will compile a written report where you
+-   In the **qualification phase** you will compile a written report where you
     will elaborate on your cryptanalysis of the system and describe your
     strategy and tactics to deceive the tally server, in order to ensure
     that your favorite candidate will win the election. You must be very
@@ -35,8 +35,16 @@ The challenge will be is divided into **two phases**.
 -   All first phase reports will be evaluated for their merit by a team
     of judges, and each will be assigned a score based on **correctness**,
     **potential**, **novelty** and **performance optimizations**. The 10 best teams
-    will move forward to the second phase.
+    will move forward to the final phase.
 
--   Details about the **second phase** will be announced together with
-    the first phase finalists.
+-   Additional details about the **final phase** will be announced together with
+    the qualification phase finalists.
 
+Requirements
+------------
+
+Teams are asked to submit their qualification report to `csaw-esc at isis.poly.edu` 
+by September 18, 2015. The qualified teams will be announced on September 27, 2015 
+and the final report is due November 8, 2015. Finalists will compete on-site in 
+New York during the Cyber Security Awareness Week (November 12-14, 2015). Teams can 
+register at `csaw.engineering.nyu.edu/esc/register`.
