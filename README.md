@@ -1,3 +1,5 @@
+##Qualification report now due September 25, 2015
+
 CSAW 2015 Embedded Security Challenge (Phase 1)
 ==============================================
 
@@ -44,7 +46,7 @@ Requirements
 ------------
 
 Teams are asked to submit their qualification report to `csaw-esc at isis.poly.edu` 
-by September 18, 2015. The qualified teams will be announced on September 27, 2015 
+by **September 25, 2015**. The qualified teams will be announced on September 27, 2015 
 and the final report is due November 8, 2015. Finalists will compete on-site in 
 New York during the Cyber Security Awareness Week (November 12-14, 2015). Teams can 
 register at `csaw.engineering.nyu.edu/esc/register`.
