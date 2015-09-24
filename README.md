@@ -1,6 +1,6 @@
 ##ESC teams are asked to register at `goo.gl/forms/1jhR8gSe2M`
 
-##Qualification report now due September 25, 2015
+##Qualification report now due September 25, 2015 via email (CC both challenge leaders)
 
 CSAW 2015 Embedded Security Challenge (Phase 1)
 ==============================================
