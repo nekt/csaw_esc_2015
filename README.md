@@ -1,6 +1,4 @@
-##ESC teams are asked to register at `goo.gl/forms/1jhR8gSe2M`
-
-##Qualification report now due September 25, 2015 via email (CC both challenge leaders)
+##Qualification report now due September 25, 2015
 
 CSAW 2015 Embedded Security Challenge (Phase 1)
 ==============================================
@@ -48,8 +46,9 @@ Requirements
 ------------
 
 Teams are asked to submit their qualification report to `csaw-esc at isis.poly.edu` 
-**(also CC both ESC challenge leaders: Nektarios and Vinayaka)** 
+**(also CC the ESC challenge leaders: Nektarios and Vinayaka)** 
 by **September 25, 2015**. The qualified teams will be announced on September 27, 2015 
 and the final report is due November 8, 2015. Finalists will compete on-site in 
 New York during the Cyber Security Awareness Week (November 12-14, 2015). Teams can 
-register at `goo.gl/forms/1jhR8gSe2M`.
+register at `csaw.engineering.nyu.edu/esc/register` (alternative form if the main link 
+is not available `goo.gl/forms/1jhR8gSe2M`).
