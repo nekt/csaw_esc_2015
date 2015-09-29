@@ -1,5 +1,3 @@
-##Finalists and phase 2 details are now published
-
 CSAW 2015 Embedded Security Challenge (Phase 1)
 ==============================================
 
@@ -39,8 +37,7 @@ The challenge will be is divided into **two phases**.
     **potential**, **novelty** and **performance optimizations**. The 10 best teams
     will move forward to the final phase.
 
--   Additional details about the **final phase** will be announced together with
-    the qualification phase finalists.
+-   Additional details about the **final phase** are available [here](esc2015_phase2.md).
 
 Requirements
 ------------
@@ -51,4 +48,4 @@ by **September 25, 2015**. The qualified teams will be announced on September 27
 and the final report is due November 8, 2015. Finalists will compete on-site in 
 New York during the Cyber Security Awareness Week (November 12-14, 2015). Teams can 
 register at `csaw.engineering.nyu.edu/esc/register` (alternative form if the main link 
-is not available `goo.gl/forms/1jhR8gSe2M`).
+is not available `goo.gl/forms/1jhR8gSe2M`)*UPDATE*: Registration is now closed.
