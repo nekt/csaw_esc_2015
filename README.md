@@ -1,3 +1,5 @@
+##Finalists are announced [here](esc2015_finalists.md)
+
 CSAW 2015 Embedded Systems Challenge (Phase 2)
 ==============================================
 
