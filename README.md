@@ -152,7 +152,7 @@ legitimate votes sent to the server are very close to the size of the
 voter population.
 
 The server validates the payload size in bytes (i.e.>= 46,
-<=1500), the `MAC`, the start/end sequences of `PAIR`s and ignores
+<=1500), the `SECPARAM`, the `MAC`, the start/end sequences of `PAIR`s and ignores
 reappearing `PAIR`s for the same candidate ID in the same frame, other
 than the first one (i.e. IDs are accounted only once per frame). At the
 end of the elections, the server declares the winner by decrypting all
