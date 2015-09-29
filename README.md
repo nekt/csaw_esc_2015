@@ -1,4 +1,4 @@
-##Qualification report now due September 25, 2015
+##Finalists and phase 2 details are now published
 
 CSAW 2015 Embedded Security Challenge (Phase 1)
 ==============================================
