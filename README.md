@@ -59,6 +59,10 @@ final winners will be determined based on the following criteria:
 	election system, as well as evaluation and theoretical support
 	for the proposed methods.
 
+*Note*: If participants choose to use third party IP cores along with their own HDL code, 
+all such cores should be available to anyone cost-free. Using paid IP cores and 
+cores that require a paid license or a demo license is not allowed.
+
 Points distribution
 -------------------
 
