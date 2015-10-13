@@ -12,7 +12,9 @@ your attack by sending malicious Ethernet frames. In preparation for
 the finals, you will also get black box access to a demo software
 simulator of the election system, covering the central tally server
 functionality over different message sequences from
-election terminals (staging server `http://52.89.227.26:5000`). Your goal in this challenge is to launch your
+election terminals (staging server `http://52.89.227.26:5000` -- *you 
+are not allowed to launch DoS on the server or perform web attacks*). 
+Your goal in this challenge is to launch your
 attack using the Nexys board as quickly as possible, after observing
 a limited number of frames in each scenario, and the software
 simulator would allow testing your attack methods beforehand. The
