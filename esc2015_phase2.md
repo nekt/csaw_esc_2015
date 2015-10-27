@@ -1,5 +1,5 @@
-CSAW 2015 Embedded Systems Challenge (Phase 2)
-==============================================
+CSAW 2015 Embedded Security Challenge (Phase 2)
+===============================================
 
 Phase 2 Instructions
 ====================
