@@ -192,5 +192,6 @@ The final report along with all the HDL code and files necessary to
 program the Nexys 4 DDR board are due **November 8, 2015**. 
 The teams are expected to be ready to demonstrate the correctness and
 performance of their attacks on the day of the finals. The teams will
-also participate in a poster session and a 5 minute auditorium
-presentation where they will present their work.
+also participate in a poster session and a 10 minute auditorium
+presentation where they will present their work. Important note: **team 
+member name changes as well as addition of new team members is not permitted**.
