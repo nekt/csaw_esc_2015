@@ -12,3 +12,4 @@ The following pages provide details about the competition:
     provided [here](esc2015_phase1.md). The finalists qualified for 
     Phase 2 are available [here](esc2015_finalists.md).
 -  **Election System Description** is provided [here](election_system_description.md).
+-  Note: the deadline for the final deliverables has been extended to **November 10, 2015 at 23:59 EST**.
