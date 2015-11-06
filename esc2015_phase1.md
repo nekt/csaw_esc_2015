@@ -45,7 +45,7 @@ Requirements
 Teams are asked to submit their qualification report to `csaw-esc at isis.poly.edu` 
 **(also CC the ESC challenge leader: Nektarios)** 
 by **September 25, 2015**. The qualified teams will be announced on September 27, 2015 
-and the final report is due November 8, 2015. Finalists will compete on-site in 
+and the final report is due **November 10, 2015 at 23:59 EST**. Finalists will compete on-site in 
 New York during the Cyber Security Awareness Week (November 12-14, 2015). Teams can 
 register at `csaw.engineering.nyu.edu/esc/register` (alternative form if the main link 
 is not available `goo.gl/forms/1jhR8gSe2M`) *UPDATE*: Registration is now closed.
