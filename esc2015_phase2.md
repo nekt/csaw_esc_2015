@@ -10,7 +10,7 @@ your attack by sending malicious Ethernet frames. In preparation for
 the finals, you will also get black box access to a demo software
 simulator of the election system, covering the central tally server
 functionality over different message sequences from
-election terminals (staging server `http://52.89.227.26:5000` -- *you 
+election terminals (staging server `http://52.33.215.68:5000` -- *you 
 are not allowed to launch DoS on the server or perform web attacks*). 
 Your goal in this challenge is to launch your
 attack using the Nexys board as quickly as possible, after observing
@@ -53,7 +53,7 @@ final winners will be determined based on the following criteria:
 	least the implementation details of the attack and the
 	corresponding cryptanalysis of the system will be assessed by
 	the judges. In addition, the teams are asked to prepare a poster
-	for interactive presentations and a 5 minute powerpoint
+	for interactive presentations and a 10 minute powerpoint
 	slideshow to be presented to a wide audience. The report and
 	related material should elaborate on the attack against the
 	election system, as well as evaluation and theoretical support
