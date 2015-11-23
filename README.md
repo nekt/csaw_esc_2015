@@ -7,6 +7,7 @@ of the competition will take place in New York City on November 13, 2015.
 The venue is NYU School of Engineering at Metrotech Center in Brooklyn, NY.
 
 The following pages provide details about the competition:
+-   **The final results are available** [**here**](esc2015_finalists.md#final-results).
 -   **Phase 2 Description** is provided [here](esc2015_phase2.md). 
     Information on this page complements the description of Phase 1 
     provided [here](esc2015_phase1.md). The finalists qualified for 
