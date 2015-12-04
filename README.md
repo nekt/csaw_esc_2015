@@ -14,4 +14,4 @@ The following pages provide details about the competition:
     Phase 2 are available [here](esc2015_finalists.md).
 -  **Election System Description** is provided [here](election_system_description.md).
 -  Note: the deadline for the final deliverables has been extended to **November 10, 2015 at 23:59 EST**.
--  The staging server address is updated: http://**52.33.215.68**:5000
+-  The staging server address is updated: http://**54.213.195.82**:5000
